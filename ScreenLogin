@@ -22,11 +22,3 @@ while True:
    if eventos == 'Entrar':
        if valores['usuario'] == 'lukas' and valores['senha'] == '123456':
            print('Bem-vindos a OG')
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
